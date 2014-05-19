@@ -5,4 +5,5 @@ gemspec
 
 group :development do
   gem 'guard-minitest'
+  gem 'guard-bundler'
 end
